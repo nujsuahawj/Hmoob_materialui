@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Lao:wght@100&display=swap');
+
+html, body, p, span{
+    font-family: 'Noto Sans Lao', sans-serif;
+  }
+  
+  #app {
+    font-family: 'Noto Sans Lao', sans-serif;
+  }
